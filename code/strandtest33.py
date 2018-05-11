@@ -75,7 +75,7 @@ list1=[255, 0, 0] #Red
 list2=[0, 255, 0] #Green
 list3=[0, 0, 255] #Blue
 
-array_color = array('i', [list1[0:3], list2[0:3], list3[0:3]]
+array_color = array('i', [list1[0:3], list2[0:3], list3[0:3]])
 
 
 
