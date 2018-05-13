@@ -1,4 +1,6 @@
-#import the adxl345 module
+#Based on AviV1's instructable : http://www.instructables.com/id/how-to-use-the-ADXL345-on-Raspberry-pi/
+
+import the adxl345 module
 import adxl345
 
 #create ADXL345 object 
